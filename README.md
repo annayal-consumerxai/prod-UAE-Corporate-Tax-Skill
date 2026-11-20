@@ -1,5 +1,7 @@
 # UAE Corporate Tax Registration Skill
 
+> By [An Nayal](https://annayal.com) · used at [Agniverse](https://agniverse.co) · more free tools at [annayal.com/open-source](https://annayal.com/open-source)
+
 File your UAE company's Corporate Tax registration on the FTA's EmaraTax portal by letting an AI agent (Claude Code or OpenAI Codex, with computer/browser control) drive the form for you. You supply the documents and your login, the agent does the clicking and typing, you review and hit submit.
 
 I built this after doing it for my own Dubai free zone company. It took about 40 minutes and cost nothing. Agents and consultants charge AED 1,000 to 1,500 for the same form. This skill is that 40 minutes, packaged, so you can skip the fee.
