@@ -1,6 +1,6 @@
 # UAE Corporate Tax Registration Skill
 
-> By [An Nayal](https://annayal.com) · used at [Agniverse](https://agniverse.co) · more free tools at [annayal.com/open-source](https://annayal.com/open-source)
+> Built at [Agniverse](https://agniverse.co), by [An Nayal](https://annayal.com) · more free tools at [annayal.com/open-source](https://annayal.com/open-source)
 
 File your UAE company's Corporate Tax registration on the FTA's EmaraTax portal by letting an AI agent (Claude Code or OpenAI Codex, with computer/browser control) drive the form for you. You supply the documents and your login, the agent does the clicking and typing, you review and hit submit.
 
@@ -69,3 +69,5 @@ By using this skill you accept that you do so at your own risk, and that the aut
 ## Licence
 
 MIT. Use it, fork it, share it. If it saved you the agent fee, tell someone.
+
+Built at [Agniverse](https://agniverse.co), by [An Nayal](https://annayal.com)
